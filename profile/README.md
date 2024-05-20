@@ -7,3 +7,5 @@ LEGAL REMINDER:<br/>
 the company logo and banner are completely owned by the company or the organization it is forbidden to use,
 software developed in this organization, such as applications, libraries(etc.), cannot be used without permission, copied, reproduced without a license, and used or owned as its own brand, the permitted software is shared under the name of a company license or a general public license.
 </p>
+
+<h3>this company is a subsidiary of the @hackwinable company</h3>
