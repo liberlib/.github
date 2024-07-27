@@ -3,6 +3,14 @@
 <img src="https://raw.githubusercontent.com/liberlib/.github/main/profile/banner_official.jpeg" width="100%" height="100%" /><br>
 
 # License Agreement
+=====================================
+             COPYRIGHT NOTICE
+=====================================
+Copyright (C) 2024 HACKWİNABLE
+
+
+All rights reserved.
+
 
 ## 1. Introduction
 
