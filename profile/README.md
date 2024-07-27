@@ -4,18 +4,6 @@
 
 # License Agreement
 
-
-
-
-=====================================
-        COPYRIGHT NOTICE
-=====================================
-Copyright (C) 2024 HACKWİNABLE
-
-
-All rights reserved.
-
-
 ## 1. Introduction
 
 This License Agreement ("Agreement") is for the [Project Name] software project ("Software") and includes specific terms for the use, copying, and distribution of the Software. This Agreement applies to anyone using the Software, and if you do not accept this Agreement, you may not use the Software.
