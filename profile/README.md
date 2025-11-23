@@ -1,6 +1,7 @@
 <h1 align="center">welcome to our world</h1>
 <p align="center">
-<noscript><a href="https://liberapay.com/ablyz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/ablyz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br/>
+</img><a href="https://opencollective.com/liberlib#support"><img src="https://opencollective.com/liberlib/tiers/sponsors.svg"></a>
 </p>
 <p align="center">we are developing various applications and libraries here.</p>
 <img src="https://raw.githubusercontent.com/liberlib/.github/main/profile/banner_official.jpeg" width="100%" height="100%" /><br>
