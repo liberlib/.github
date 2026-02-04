@@ -6,52 +6,57 @@
 <p align="center">we are developing various applications and libraries here.</p>
 <img src="https://raw.githubusercontent.com/liberlib/.github/main/profile/banner_official.jpeg" width="100%" height="100%" /><br>
 
-# License Agreement
+# License Agreement for [SOFTWARE]
 
-## 1. Introduction
+**Version:** 1.1  
+**Release Date:** February 2026  
+**License Type:** Restricted Shared Source - Non-Commercial Use Only
 
-This License Agreement ("Agreement") is for the [Project Name] software project ("Software") and includes specific terms for the use, copying, and distribution of the Software. This Agreement applies to anyone using the Software, and if you do not accept this Agreement, you may not use the Software.
+---
 
-## 2. Definitions
+## 1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement, **liberlib Open Source** ("Licensor") hereby grants you ("Licensee") a limited, non-exclusive, non-transferable, and non-sublicensable license to use the **[SOFTWARE]** software ("Software") solely for **personal, educational, and non-commercial purposes**.
 
-**"Software"**: The [Project Name] software project that is the subject of this Agreement.  
-**"Licensor"**: The person or organization that created the Software and is providing this Agreement.  
-**"Licensee"**: The person or organization using, copying, or distributing the Software.  
-**"Derivative Work"**: Any work derived from or based on the Software.
+## 2. DEFINITIONS
+* **"Commercial Use"** shall mean any use of the Software by a commercial entity or for-profit organization, or any use that generates revenue, directly or indirectly, including but not limited to consulting, SaaS platforms, or internal corporate tools.
+* **"Derivative Work"** means any software, contribution, or modification that is based on or derived from the Software.
+* **"Personal Use"** refers to use by an individual solely for private study, hobbyist projects, or research that is not funded by a commercial entity.
 
-## 3. Right to Use
+## 3. PROHIBITED ACTIONS & RESTRICTIONS
+The Licensee is strictly prohibited from:
+* **Commercial Exploitation:** Using the Software, or any portion thereof, for any commercial or production purpose in a business environment.
+* **Modification & Derivatives:** Modifying, altering, or creating derivative works of the Software without prior **express written consent** from the Licensor.
+* **Reverse Engineering:** Decompiling, disassembling, or attempting to derive the source code from binary distributions (if applicable), except as permitted by mandatory law.
+* **Sublicensing:** Selling, renting, leasing, or sublicensing the Software to any third party.
+* **Removal of Notices:** Removing or altering any copyright notices, trademarks, or "ReadMe" files included in the Software.
 
-The Licensee is granted the right to use the Software under the terms specified in this Agreement. This right is limited to non-commercial personal use. The Software may not be used for any corporate or commercial purposes.
+## 4. ATTRIBUTION REQUIREMENTS
+Any redistribution of the Software (in its original form) or public display of projects utilizing the Software must include a clear and prominent attribution to the Licensor:
+> **"Powered by [SOFTWARE] - Created by liberlib Open Source"**
+A link to the original source repository must be provided in all documentation or "About" sections.
 
-## 4. Copying and Distribution
+## 5. INTELLECTUAL PROPERTY & TRADEMARKS
+This License does not grant the Licensee any rights to the trademarks, service marks, logos, or trade names of the Licensor. All title, ownership rights, and intellectual property rights in and to the Software shall remain the exclusive property of the Licensor.
 
-The Licensee may distribute unchanged copies of the Software, provided these copies include this Agreement. Any modification of the Software, creation of derivative works, or distribution thereof is subject to permission.
+## 6. TERMINATION
+This Agreement is effective until terminated. Your rights under this License will terminate **automatically without notice** if you fail to comply with any term(s) of this Agreement. Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
 
-## 5. Modifications and Derivative Works
+## 7. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Before making any modifications to the Software or creating derivative works from the Software, written permission must be obtained from the Licensor. Such modifications and derivative works may only be made with the approval of the Licensor.
+## 8. LIMITATION OF LIABILITY
+UNDER NO CIRCUMSTANCES SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-## 6. Corporate Use
+## 9. GOVERNING LAW & JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of **[INSERT JURISDICTION]**. Any legal action or proceeding arising under this Agreement will be brought exclusively in the courts located in **[INSERT JURISDICTION]**, and the parties hereby consent to personal jurisdiction and venue therein.
 
-The Software may not be used for any corporate or commercial purposes. This prohibits any company, organization, or commercial enterprise from using the Software. The Licensee must refrain from using the Software for corporate or commercial purposes.
+## 10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties concerning the Software and supersedes all prior or contemporaneous communications. The Licensor reserves the right to modify this Agreement at any time by posting an updated version on the project repository.
 
-## 7. Violation and Liability
+---
+**Copyright (c) 2026 liberlib Open Source. All Rights Reserved.**
 
-In the event of a violation of this Agreement, the Licensee will be fully responsible for the consequences of the violation. This may include legal sanctions and claims for damages. In the case of corporate or commercial use, the Licensee is responsible for all consequences of the violation and for compensating any resulting damages.
 
-## 8. Credit and Attribution
-
-In any project where the Software is used, the name of the main company and the Licensor must be clearly stated. This applies to any distribution, publication, or presentation where the Software is used.
-
-## 9. Limitation of Liability
-
-The Software is provided "as is" and the Licensor is not liable for any damages arising from the use of the Software. This includes indirect, incidental, or consequential damages.
-
-## 10. Final Provisions
-
-This Agreement includes all terms related to the use of the Software and the Licensee is deemed to accept these terms by using the Software. This Agreement may be amended by the Licensor at any time, and any changes will be communicated to the Licensee.
-
-The Licensee agrees to comply with all the terms of this Agreement by using the Software.
 
 
 
